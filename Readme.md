@@ -28,4 +28,4 @@ By improving the robot's capabilities and expanding its applications, this proje
 
 ---
 
-Finally, this project has been developed by Nicolás Rebollo Ugarte and is reserved by VUB. For more information, please contact me via [LinkedIn](https://www.linkedin.com/nicorebo18).
+Finally, this project has been developed by Nicolás Rebollo Ugarte and is reserved by VUB. For more information, please contact me via [LinkedIn](https://www.linkedin.com/in/nicorebo18/).
