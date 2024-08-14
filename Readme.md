@@ -3,6 +3,8 @@
 ## Overview
 This GitHub repository contains resources for maintaining and performing necessary repairs on my thesis project, defended on June 26th, 2024, during my Erasmus at Vrije Universiteit Brussel (VUB). The project aims to enhance the capabilities of an existing robot, originally developed as part of my thesis. This improved robot serves as an advanced platform for educational purposes and research activities within the university community. By upgrading its functionality, robustness, and performance, the goal is to provide students and professors with a versatile tool for exploring concepts in robotics, automation, and artificial intelligence (AI).
 
+![Robot's Design Render](https://github.com/Nicorebo-18/BachelorsThesis/blob/main/0.Resources/Robot_Render_Design2.png?raw=true)
+
 ## Key Objectives
 - **Educational Tool** 🎓: The upgraded robot will offer students hands-on experience in designing, programming, and testing autonomous systems. This prepares them for careers in engineering and technology by leveraging practical applications of theoretical knowledge.
   
